@@ -47,7 +47,12 @@ jobs:
           echo "::set-output name=changes_exist::false"
           echo "No changes detected in README.md"
         fi
-        
+
+    - name: Clear untracked files
+      run: |
+        # Remove untracked files that may prevent rebase
+        git clean -fd
+
     - name: Commit and push changes
       if: steps.check_changes.outputs.changes_exist == 'true'
       run: |
@@ -59,6 +64,9 @@ jobs:
         
         # Check out main branch
         git checkout main
+        
+        # Rebase onto main
+        git rebase origin/main
         
         # Apply stashed changes
         git stash pop
