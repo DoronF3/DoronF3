@@ -4,6 +4,7 @@ import requests
 from datetime import datetime
 import pytz
 
+
 # Your location coordinates (Modi'in, Israel)
 LAT = "31.8940"
 LON = "35.0132"
