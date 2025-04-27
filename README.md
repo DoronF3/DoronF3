@@ -1,83 +1,125 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Doron
 
+[![GitHub followers](https://img.shields.io/github/followers/DoronF3?style=social)](https://github.com/DoronF3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/DoronF3)
 
-<p>Welcome to my page! </br> I'm Doron, Backend Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Modi'in, Israel</b></p>
-<h3>Skills</h3>
+## 💻 Backend Engineer | 🌐 API Specialist | 📊 Data Enthusiast
 
-<h4>Languages</h4>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+I'm a passionate Backend Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="13"/> **Modi'in, Israel**, dedicated to building robust, scalable systems and APIs. With a strong focus on TypeScript, Python, and cloud technologies, I love solving complex problems and optimizing performance.
 
-<h4>Frameworks & Libraries</h4>
-<p>
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Axios" src="https://img.shields.io/badge/axios-671ddf?&style=flat-square&logo=axios&logoColor=white" />
-  <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-</p>
+---
 
-<h4>Databases</h4>
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+### 🚀 What I Do
 
-<h4>Cloud & DevOps</h4>
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
+- Design and implement scalable backend architectures
+- Develop secure and efficient APIs
+- Work with database systems optimization
+- Implement DevOps solutions with Docker and Kubernetes
+- Explore machine learning applications for real-world problems
 
-<h4>APIs & Security</h4>
-<p>
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
-</p>
+---
 
-<h4>Data Science & Analytics</h4>
-<p>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
-</p>
+### 🛠️ Tech Stack
 
+#### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3>My Projects</h3>
+#### Frameworks & Libraries
+![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### APIs & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+#### Data Science
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+---
+
+### 🔭 Featured Projects
+
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Languages</b></td>
-      <td><b>📚 Technologies</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href=""><b>Proj 1</b></a></td>
-      <td><img alt="Languages" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></td>
-      <td><img alt="Technologies" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/></td>
-    </tr>
-	  <tr>
-      <td><a href="k"><b>Proj 2</b></a></td>
-      <td><img alt="Languages" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></td>
-      <td><img alt="Technologies" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/></td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DoronF3/doronf3.github.io"><b>Personal Website</b></a></td>
+    <td>A responsive portfolio website showcasing my skills and projects</td>
+    <td>
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DoronF3/School-Projects/blob/main/Machine%20Learning/Ml%20Final/ML%20Final%20Project.ipynb"><b>US Fires Predictive Analysis</b></a></td>
+    <td>Machine learning research project analyzing patterns in US wildfire occurrences to predict high-risk areas</td>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white"/>
+    </td>
+  </tr>
 </table>
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/posts/doronf3_mongodb-acgachacoacnadgabracuacpacjacy-adaacpadgaclacnabrbackend-activity-7292113211556876288-BCNh?utm_source=share&utm_medium=member_desktop"/> Queryable Encryption in MongoDB!</i></li>
-  <li><a href="https://www.linkedin.com/posts/doronf3_docker-devops-backenddevelopment-activity-7289211574597144576-tH9n?utm_source=share&utm_medium=member_desktop"/> How to deploy Docker more efficiently by reducing image size</i></li>
-</ul>
-Currently, the weather is: <b> 2°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:51</b> and sets at <b>16:12</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/DoronF3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/DoronF3" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:doronfi3@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoronF3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoronF3&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🌐 Where to Find Me
+
+<p>
+  <a href="https://doronf3.github.io/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/DoronF3" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/DoronF3" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:doronfi3@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 4 February, 16:00 CET<br /></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> </p>
+---
 
+<div align="center">
+  Currently in Modi'in: <b>2°C, <i>broken clouds</i></b><br>
+  Today, the sun rises at <b>07:51</b> and sets at <b>16:12</b>
+</div>
+
+---
+
+<div align="center">
+  <i>This README is automatically updated every 3 hours!</i><br>
+  Last refresh: Tuesday, 4 February, 16:00 CET<br>
+  <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DoronF3&color=blueviolet" alt="profile views" />
+</div>
