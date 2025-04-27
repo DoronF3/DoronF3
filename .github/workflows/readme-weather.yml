@@ -11,15 +11,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # This gives the workflow permission to write to the repository
 
     steps:
     - uses: actions/checkout@v3
       with:
-        # This token is automatically created by GitHub
         token: ${{ secrets.GITHUB_TOKEN }}
-        # Important to fetch all history for git operations
         fetch-depth: 0
       
     - name: Set up Python
@@ -37,12 +33,23 @@ jobs:
         WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
       run: python update_readme.py
       
-    - name: Pull and push changes
+    - name: Commit and push changes
       run: |
-        git config --global user.email "readme-bot@users.noreply.github.com"
-        git config --global user.name "README-bot"
-        git fetch origin
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        
+        # Pull latest changes first
+        git pull origin main --rebase
+        
+        # Add, commit and push if there are changes
         git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "Updated README with latest weather data"
-        git rebase origin/main
-        git push --force-with-lease origin main
+        git status
+        
+        # Only commit if there are changes
+        if [[ -n "$(git status --porcelain)" ]]; then
+          echo "Changes detected, committing..."
+          git commit -m "Updated README with latest weather data"
+          git push origin main
+        else
+          echo "No changes detected"
+        fi
