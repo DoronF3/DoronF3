@@ -118,15 +118,15 @@ I'm a passionate Backend Engineer from <img src="https://cdn-icons-png.flaticon.
 ---
 
 <div align="center">
-  Currently in Modi'in: <b>21°C, <i>clear sky</i></b><br>
-  Today, the sun rises at <b>06:42</b> and sets at <b>18:09</b>
+  Currently in Modi'in: <b>19°C, <i>few clouds</i></b><br>
+  Today, the sun rises at <b>06:43</b> and sets at <b>18:08</b>
 </div>
 
 ---
 
 <div align="center">
   <i>This README is automatically updated every 3 hours!</i><br>
-  Last refresh: Tuesday, 14 October, 21:30 IDT<br>
+  Last refresh: Wednesday, 15 October, 00:17 IDT<br>
   <img src="https://github.com/DoronF3/DoronF3/workflows/README%20build/badge.svg" />
 </div>
 
