@@ -118,7 +118,7 @@ I'm a passionate Backend Engineer from <img src="https://cdn-icons-png.flaticon.
 ---
 
 <div align="center">
-  Currently in Modi'in: <b>9°C, <i>clear sky</i></b><br>
+  Currently in Modi'in: <b>7°C, <i>clear sky</i></b><br>
   Today, the sun rises at <b>06:34</b> and sets at <b>16:38</b>
 </div>
 
@@ -126,7 +126,7 @@ I'm a passionate Backend Engineer from <img src="https://cdn-icons-png.flaticon.
 
 <div align="center">
   <i>This README is automatically updated every 3 hours!</i><br>
-  Last refresh: Wednesday, 17 December, 23:22 IST<br>
+  Last refresh: Thursday, 18 December, 03:46 IST<br>
   <img src="https://github.com/DoronF3/DoronF3/workflows/README%20build/badge.svg" />
 </div>
 
