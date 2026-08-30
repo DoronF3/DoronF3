@@ -1,135 +1,85 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! I'm Doron
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/DoronF3?style=social)](https://github.com/DoronF3)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/DoronF3)
+# Doron Firman
+### Distributed Systems & AI Developer Infrastructure
 
-## Table of Contents
-- [About Me](#-about-me)
-- [What I Do](#-what-i-do)
-- [Tech Stack](#-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Where to Find Me](#-where-to-find-me)
+[![Website](https://img.shields.io/badge/Architecture_Dossier-doronf3.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doronf3.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Doron_Firman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doronf3)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doronfi3@gmail.com)
 
-## 💻 Backend Engineer | 🌐 API Specialist | 📊 Data Enthusiast
+<p align="center">
+  <b>High-Scale Backend Systems</b> • <b>Zero-Downtime Service Migrations</b> • <b>Deterministic AI Developer Tooling</b>
+</p>
 
-I'm a passionate Backend Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197577.png" width="13"/> **Modi'in, Israel**, dedicated to building robust, scalable systems and APIs. With a strong focus on TypeScript, Python, and cloud technologies, I love solving complex problems and optimizing performance.
+</div>
 
 ---
 
-### 🚀 [What I Do](#-what-i-do)
+### 🏛️ Featured Systems & Case Studies
 
-- Design and implement scalable backend architectures
-- Develop secure and efficient APIs
-- Work with database systems optimization
-- Implement DevOps solutions with Docker and Kubernetes
-- Explore machine learning applications for real-world problems
+<details open>
+<summary><b>📊 1. Multi-Channel Pipeline Observability & Analytics</b></summary>
+<br>
 
----
+> **Core Challenge**: Unified end-to-end visibility and real-time monitoring across distributed mobile (iOS/Android) and web delivery channels, eliminating notification delivery blind spots.
 
-### 🛠️ [Tech Stack](#-tech-stack)
+* **Architecture**: Standardized structured event schemas across delivery stages; aggregated streaming metrics into centralized real-time triage dashboards.
+* **Key Impact**: Achieved 100% channel traceability and substantially accelerated mean time to incident triage.
+</details>
 
-#### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<details open>
+<summary><b>🔄 2. Zero-Downtime Service & Identity Migration</b></summary>
+<br>
 
-#### Frameworks & Libraries
-![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+> **Core Challenge**: Migrating 100M+ active user and device records from a deprecated legacy identity service to a modern infrastructure with zero service downtime or mis-targeting.
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+* **Architecture**: Executed a dark launch with shadow evaluation, running side-by-side verification on live traffic before gradual traffic ramp and cutover.
+* **Key Impact**: 100M+ active records migrated with 0 downtime and 100% data consistency verified prior to cutover.
+</details>
 
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<details open>
+<summary><b>🤖 3. Reliable AI Developer Tooling & Agent Harnesses</b></summary>
+<br>
 
-#### APIs & Securitytfolio website showcasing my skills and projects</td>
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+> **Core Challenge**: Eliminating model hallucinations, command syntax errors, and context bloat in mission-critical AI coding workflows.
 
-#### Data Science
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+* **Architecture**: Replaced fragile natural-language prompt instructions with compiled, hermetically tested CLI tools, strict schema validation gates, and automated golden eval suites.
+* **Key Impact**: 99.4% tool execution accuracy and automated regression protection against model updates.
+</details>
 
 ---
 
-### 🔭 [Featured Projects](#-featured-projects)
+### 🛠️ Technical Stack & Primitives
 
 <table>
   <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/DoronF3/doronf3.github.io"><b>Personal Website</b></a></td>
-    <td>A responsive portfolio website showcasing my skills and projects</td>
+    <td width="25%"><b>Languages</b></td>
     <td>
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DoronF3/School-Projects/blob/main/Machine%20Learning/Ml%20Final/ML%20Final%20Project.ipynb"><b>US Fires Predictive Analysis</b></a></td>
-    <td>Machine learning research project analyzing patterns in US wildfire occurrences to predict high-risk areas</td>
+    <td width="25%"><b>Backend & Systems</b></td>
     <td>
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Distributed_Messaging-4285F4?style=flat-square" alt="Distributed Messaging" />
+      <img src="https://img.shields.io/badge/gRPC_%26_Protobuf-244c5a?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/SQL_%26_NoSQL-336791?style=flat-square" alt="Databases" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><b>AI & Dev Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AI_Agent_Tooling-00A67E?style=flat-square" alt="AI Agent Tooling" />
+      <img src="https://img.shields.io/badge/Deterministic_Eval_Pipelines-7B1FA2?style=flat-square" alt="Eval Pipelines" />
+      <img src="https://img.shields.io/badge/Automated_Regression_Testing-FF6F00?style=flat-square" alt="Regression Testing" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 [GitHub Stats](#-github-stats)
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoronF3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoronF3&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
----
-
-### 🌐 [Where to Find Me](#-where-to-find-me)
-
-<div align="center">
-  <a href="https://doronf3.github.io/" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/DoronF3" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-DoronF3-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/DoronF3" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DoronF3-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:doronfi3@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-doronfi3@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  Currently in Modi'in: <b>30°C, <i>clear sky</i></b><br>
-  Today, the sun rises at <b>06:14</b> and sets at <b>19:07</b>
-</div>
-
----
-
-<div align="center">
-  <i>This README is automatically updated every 3 hours!</i><br>
-  Last refresh: Sunday, 30 August, 14:27 IDT<br>
-  <img src="https://github.com/DoronF3/DoronF3/workflows/README%20build/badge.svg" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DoronF3&color=blueviolet" alt="profile views" />
+  <sub>Full architectural specifications and system design writeups are published at <a href="https://doronf3.github.io"><b>doronf3.github.io</b></a></sub>
 </div>
