@@ -183,7 +183,7 @@ This enables:
 
 ### The Problem
 
-A deprecated identity service needed to be replaced while maintaining production availability and ensuring that migrated users and devices remained correctly targeted.
+A deprecated service needed to be replaced while maintaining production availability and ensuring that migrated users remained correctly targeted.
 
 ### The Strategy
 
